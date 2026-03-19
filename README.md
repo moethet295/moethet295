@@ -16,8 +16,6 @@ I'm a quick learner and I adapt easily to new technologies. I'm currently diving
 
 🤝 **Collaboration**  
 I'm looking for opportunities to collaborate on real-world projects. I want to contribute and grow as a developer.
-💪 **Work Ethic**  
-I'm open to challenges and I work well under pressure. I'm available for 24-hour OT when needed. I believe in writing clean, maintainable code. I'm passionate about continuous learning and problem-solving.
 
 ⚡ **Fun Facts**  
 🐱 Cat lover  
