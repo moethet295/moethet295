@@ -2,29 +2,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moethet295&color=blueviolet)
 
+## 💼 From Banking to Coding
+> ATM & Card Operations → Aspiring Web Developer
+
 ## 📌 About Me
-- 🏦 ATM & Card Operations at Bank | 💻 Aspiring Web Developer
-- 📚 9 months into coding | Learning React & Node.js
-- 🌏 English & Chinese speaker | Quick learner
-- 🐱 Cat lover | Weekend sleeper | Code > Girls 😄
+- 🏦 လက်ရှိတွင် **ဘဏ်တစ်ခုမှာ ATM & Card ပိုင်း** တာဝန်ထမ်းဆောင်နေသူ
+- 💻 **Web Developer** ဖြစ်ရန် ရည်မှန်းချက်ထားရှိပြီး **၉ လကြာ** လေ့လာဆည်းပူးနေ
+- 🚀 **React** နှင့် **Node.js** ကို အထူးပြုလေ့လာနေသော်လည်း ဘာသာစကားမရွေး ကုဒ်ရေးဆွဲရသည်ကို နှစ်သက်သူ
+- 🌏 မြန်မာ၊ အင်္ဂလိပ်နှင့် တရုတ်ဘာသာစကားများ ကျွမ်းကျင်စွာ ပြောဆိုနိုင်သူ
+- 📚 စာဖတ်ခြင်းနှင့် ဘာသာစကားအသစ်များ လေ့လာခြင်းကို ဝါသနာပါသူ
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+## 🎯 လက်ရှိအာရုံစိုက်နေသည်များ
+- 🔭 **Backend Development** ကို အထူးလေ့လာနေဆဲ
+- 👯 **Real-world project များ** တွင် ပူးပေါင်းဆောင်ရွက်ရန် စိတ်ဝင်စား
+- 💡 ဘဏ်လုပ်ငန်းမှ Web Development သို့ **Career Change** အတွက် ပြင်ဆင်နေ
 
-## 🎯 Current Focus
-- 🔭 Learning backend development
-- 👯 Looking to collaborate on real-world projects
-- 💬 Open to coding opportunities & connections
-
-## 📫 Contact
+## 📫 ဆက်သွယ်ရန်
 [![Gmail](https://img.shields.io/badge/-moethet295@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moethet295@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/yourpage)
 
 ## ⚡ Fun Facts
 - 🐱 ကြောင်ချစ်တယ်
@@ -33,4 +27,5 @@
 - 💖 ကောင်မလေးတွေထက် code ကိုပိုချစ်တယ်
 
 ---
-*From Banking to Coding - One commit at a time* 🚀
+
+*"ဘဏ်ကနေ Web ကို... တစ်နေ့တစ်ခြေလှမ်း"* 🚀
