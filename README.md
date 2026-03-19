@@ -1,4 +1,5 @@
-# Moe Thet Tin
+# Hi there, I'm Moe Thet Tin 👋
+
 👔 **Current Job**  
 I'm currently working in Application & Digitization at A bank.
 
