@@ -23,3 +23,20 @@ I speak Burmese, English, and Chinese fluently. This helps me learn from diverse
 😴 Sleep all day at my dorm on weekends  
 💪 Available for 24-hour OT  
 💖 Love code more than girls
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My GitHub Pages Site</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYGKMFGRQR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-PYGKMFGRQR');
+    </script>
+</head>
+<body>
+    <h1>Welcome to my site</h1>
+</body>
+</html>
